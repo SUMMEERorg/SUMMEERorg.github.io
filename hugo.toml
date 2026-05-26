@@ -1,4 +1,80 @@
-baseURL = 'summeerorg.github.io/'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = "ananke"
+baseURL = "https://summeerorg.github.io/"
+locale = "en-US"
+title = "Mohammad Movahedi"
+theme = "gokarna-hugo"
+enableEmoji = true
+googleAnalytics = "G-1WZSE8DHZ9"
+
+[params]
+  description = "Construction & Infrastructure Management Researcher"
+  avatarURL = "/images/profile.png"
+  avatarAltText = "Mohammad Movahedi"
+  avatarSize = "size-m"
+  showBackToTopButton = true
+  customHeadHTML = '''
+<link rel="icon" type="image/png" href="/favicon.png">
+
+<link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1WZSE8DHZ9"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-1WZSE8DHZ9');
+</script>
+
+'''
+
+  socialIcons = [
+    {name = "github", url = "https://github.com/m-movahedi"},
+    {name = "twitter", url = "https://x.com/m_movahedi_"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/m-movahedi"},
+    {name = "google", url = "https://scholar.google.com/citations?user=BXiu1y0AAAAJ&hl=en"},
+    {name = "researchgate", url = "https://www.researchgate.net/profile/Mohammad-Movahedi-3"},
+    {name = "goodreads", url = "https://www.goodreads.com/m_movahedi"},
+    {name = "youtube", url = "https://www.youtube.com/channel/UCEYpMTO20lSZoYd8zP52bRA"},
+    {name = "email", url = "mailto:eng.mohammadmovahedi@gmail.com"}
+  ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Background"
+    url = "/Background/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Webinars"
+    url = "/Webinars/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+
+ 

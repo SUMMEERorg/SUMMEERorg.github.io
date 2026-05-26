@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>summeerorg.github.io/categories/</loc></url><url><loc>summeerorg.github.io/</loc></url><url><loc>summeerorg.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://m-movahedi.com/blog/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/blog/my-first-post/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/webinars/nheri_rsr_spring2026/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/webinars/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/webinars/nheri_rsr_spring2025/</loc>
+    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/research/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/research/sightseeing-tour-planning/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://m-movahedi.com/about/</loc>
+  </url><url>
+    <loc>https://m-movahedi.com/background/</loc>
+  </url><url>
+    <loc>https://m-movahedi.com/categories/</loc>
+  </url><url>
+    <loc>https://m-movahedi.com/tags/</loc>
+  </url>
+</urlset>
