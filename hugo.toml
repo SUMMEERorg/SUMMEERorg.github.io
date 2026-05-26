@@ -1,4 +1,4 @@
 baseURL = 'summeerorg.github.io/'
 locale = 'en-us'
 title = 'My New Hugo Project'
-theme = "simple"
+theme = "ananke"
