@@ -10,7 +10,7 @@ hideTitle: true
 
 The SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) research organization aims to facilitate data collection, develop reconnaissance guidance, train stakeholders, share resources, and support innovative research. Through its activities, the ultimate aim of SUMMEER is to enable and advance sustainable management of post-disaster materials.
 
-SUMMEER is funded by the United States National Science Foundation (NSF) (Grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014330">#2014330</a>.
+SUMMEER is funded by the United States National Science Foundation (NSF) (Grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014330">#2014330</a>).
 
 
 # Purpose
