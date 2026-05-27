@@ -1,0 +1,34 @@
+.responsive-row {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin: 40px 0;
+}
+
+.responsive-text,
+.responsive-image {
+  flex: 1;
+}
+
+.responsive-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+
+  .responsive-row {
+    flex-direction: column;
+  }
+
+  .responsive-text {
+    order: 1;
+  }
+
+  .responsive-image {
+    order: 2;
+  }
+
+}
