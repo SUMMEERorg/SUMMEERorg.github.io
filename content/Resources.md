@@ -13,7 +13,6 @@ SUMMEER YouTube Channel: <a herf="https://www.youtube.com/channel/UClK3eBAc-nhPe
 ## Assessment Reports
 ### Virtual
 
-{{ partial "post-list.html" . }}
 {{< news-list >}}
 
 ## Workshops
