@@ -46,14 +46,14 @@ gtag('config', 'G-1WZSE8DHZ9');
     weight = 1
 
   [[menu.main]]
-    name = "Webinars"
-    url = "/Webinars/"
+    name = "Team"
+    url = "/Team/"
     weight = 2
 
   [[menu.main]]
-    name = "Team"
-    url = "/Team/"
-    weight = 3
+    name = "Webinars"
+    url = "/Webinars/"
+    weight = 3  
 
   [[menu.main]]
     name = "Research"
