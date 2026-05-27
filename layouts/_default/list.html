@@ -2,6 +2,12 @@
 
 <h1>{{ .Title }}</h1>
 
+{{ with .Content }}
+<div class="blog-intro">
+  {{ . }}
+</div>
+{{ end }}
+
 {{ if eq .Params.view "grid" }}
 
 <div class="blog-grid">
