@@ -6,12 +6,12 @@ enableEmoji = true
 
 [params]
   description = "SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) Organization"
-  avatarURL = "/images/SUMMEER.png"
+  avatarURL = "/images/SUMMEER_LOGO.png"
   avatarAltText = "SUMMEER"
   avatarSize = "size-m"
   showBackToTopButton = true
   customHeadHTML = '''
-<link rel="icon" type="image/png" href="/images/SUMMEER.png">
+<link rel="icon" type="image/png" href="/images/SUMMEER_LOGO.png">
 
 <link rel="stylesheet"
       href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
