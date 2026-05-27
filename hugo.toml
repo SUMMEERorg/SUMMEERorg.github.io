@@ -61,8 +61,8 @@ gtag('config', 'G-1WZSE8DHZ9');
     weight = 4
 
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "News"
+    url = "/news/"
     weight = 5
 
   [[menu.main]]
