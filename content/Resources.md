@@ -14,11 +14,7 @@ SUMMEER YouTube Channel: <a herf="https://www.youtube.com/channel/UClK3eBAc-nhPe
 ### Virtual
 
 {{ partial "post-list.html" . }}
-- Midwest tornadoes
-- Michigan dam failure
-- Hurricane Laura
-- Surfside Building Collapse
-- Hurricane Ida
+{{< news-list >}}
 
 ## Workshops
 Workshop on Post-Disaster Materials and Environmental Management, May 2-3, 2019, Alexandria, Virginia, USA
