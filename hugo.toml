@@ -5,7 +5,7 @@ theme = "gokarna-hugo"
 enableEmoji = true
 
 [params]
-  description = "SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) Organization"
+  description = "SUstainable Material Management Extreme Events Reconnaissance (SUMMEER)"
   avatarURL = "/images/SUMMEER_LOGO.png"
   avatarAltText = "SUMMEER"
   avatarSize = "size-m"
