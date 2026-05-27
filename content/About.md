@@ -22,4 +22,4 @@ As per the bylaws of the organization, the primary purpose of SUMMEER is to adva
 Existing members and prospective members are invited to visit the <a href="\membership">here</a> page.
 
 # Bylaws
-You can find a copy of the SUMMEER bylaws here <a href="static\projects\2020\08\SUMMEER_Bylaws_2020_06_10.pdf">here</a>.
+You can find a copy of the SUMMEER bylaws here <a href="/static/projects/2020/08/SUMMEER_Bylaws_2020_06_10.pdf">here</a>.
