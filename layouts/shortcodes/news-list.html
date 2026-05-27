@@ -1,9 +1,9 @@
 <div class="news-list">
   {{ range first 5 (where site.RegularPages "Section" "news") }}
     <article class="news-item">
-      <p>
+      <h4>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      </p>
+      </h4>
       {{ end }}
 
       {{ with .Summary }}
