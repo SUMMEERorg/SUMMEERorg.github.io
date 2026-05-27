@@ -32,7 +32,7 @@ gtag('config', 'G-1WZSE8DHZ9');
 
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/"},
-    {name = "youtube",  url= "https://www.youtube.com/channel/UClK3eBAc-nhPejZLiv4URHw"}
+    {name = "youtube",  url= "https://www.youtube.com/@summeernetwork8989"}
     {name = "email", url = "mailto:"}
   ]
 
