@@ -66,11 +66,16 @@ gtag('config', 'G-1WZSE8DHZ9');
     weight = 5  
 
   [[menu.main]]
+    name = "Responses"
+    url = "/responses/"
+    weight = 6
+
+  [[menu.main]]
     name = "Membership"
     url = "/membership/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 8
