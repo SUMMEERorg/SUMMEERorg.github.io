@@ -5,6 +5,7 @@ theme = "gokarna-hugo"
 enableEmoji = true
 
 [params]
+  custom_css = ["custom.css"]
   description = "SUstainable Material Management Extreme Events Reconnaissance (SUMMEER)"
   avatarURL = "/images/SUMMEER_LOGO.png"
   avatarAltText = "SUMMEER"
