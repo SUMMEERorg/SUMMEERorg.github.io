@@ -6,16 +6,20 @@ hideTitle: true
 <center> <h1> EAGER: SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) Organization </h1> </center>
 
 
+# Introduction
+
+The SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) research organization aims to facilitate data collection, develop reconnaissance guidance, train stakeholders, share resources, and support innovative research. Through its activities, the ultimate aim of SUMMEER is to enable and advance sustainable management of post-disaster materials.
+
+SUMMEER is funded by the United States National Science Foundation (NSF) (Grant #2014330).
 
 
-Principal Investigator: Derrible, Sybil
-Start Date: 2020-02-01
-End Date: 2022-01-31
-Funding Source: Florida State University
+# Purpose
 
-<br>
+As per the bylaws of the organization, the primary purpose of SUMMEER is to advance the state-of-the-art and the state-of-the practice in sustainable management of post-disaster materials through pre- and post-disaster planning and reconnaissance activities including development of guidance documents, training stakeholders, facilitating data collection, archiving, and sharing, and supporting innovative research. The activities of the organization serve to reduce the adverse impacts of the large quantities and wide varieties of debris and waste materials generated due to extreme disaster events. A broad range of natural disasters including geophysical events (earthquake, dry mass movement, volcanic activity), meteorological events (extreme temperature, fog, storm), hydrological events (flood, landslide, wave action), climatological events (drought, glacial outburst, wildfire), biological (epidemic, animal infestations and accidents), extraterrestrial events (impact, space weather) and technological events including industrial accidents (liquid/gas spill/leak, fire, facility collapse, explosion, radiation), transportation accidents (air, surface/subsurface, water), other accidents fall under the purview of the organization.
 
-**Abstract-** Large quantities of debris are generated from natural and anthropogenic disaster events. The sheer magnitude and highly variable composition complicate management of the post-disaster debris. With proper material recovery processes, reusing and recycling create value and divert debris from landfills, minimizing the overall environmental impacts of the debris. The main goal of this project is to establish the SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) organization with a geographically distributed network to respond to post-disaster debris management challenges. The mission of SUMMEER is to: (i) facilitate a combined member and community-based approach to maximize the effect of post-disaster debris reconnaissance activities, (ii) organize and train a broad range of individuals for reconnaissance and study of debris from extreme events, (iii) coordinate pre- and post-disaster efforts to collect perishable data on post-disaster debris in a timely and effective manner, and (iv) provide significant data and resources for research on sustainable management of post-disaster debris. The framework and tools developed in this study will facilitate proper planning for and sustainable management of disaster debris to maximize benefits from the materials through reuse and recycling and to minimize adverse effects on human health and the environment. The importance of recycling/reuse of post-disaster debris has been recognized in the literature and practice; however, quantitative frameworks and tools for pre- and post-disaster planning are highly limited due to the lack of detailed post-disaster debris investigations. This new Extreme Events Reconnaissance (EER) organization will fill this gap by providing standardized data that has not previously been available. The new EER organization will, for the first time, provide reconnaissance guidelines, response protocols, data standards, and training programs for high-quality field assessment for sustainable debris management research. Accumulation of this post-disaster debris data will lead to development of quantitative planning methods for disaster debris and enable effective post-disaster reuse and recycling applications. SUMMEER will function as an integrated platform for coordinating the deployment of interdisciplinary researchers to collect such multidimensional debris data from extreme events. Also, a data repository will be generated during the study for use by the research community. In response to major disaster events, SUMMEER will participate in joint response activities with the other NSF-funded EERs to evaluate environmental impacts of disaster events that are important for sustainable debris management research in a timely and effective manner in addition to the structural, geotechnical, and social impacts identified through the existing EERs adding value and expanding the impact of the combined EERs. This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+# Members
 
+Existing members and prospective members are invited to visit the Membership page.
 
-<br>
+# Bylaws
+You can find a copy of the SUMMEER bylaws here <a href="static\projects\2020\08\SUMMEER_Bylaws_2020_06_10.pdf">here</a>.
