@@ -1,6 +1,7 @@
 ---
 title: "Home"
-hideTitle: false
+hideTitle: true
+featured_image: "/static/images/cover.jpg"
 ---
 
 

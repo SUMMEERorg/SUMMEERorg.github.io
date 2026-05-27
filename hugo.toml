@@ -1,7 +1,7 @@
 baseURL = "https://summeerorg.github.io/"
 locale = "en-US"
 title = "SUMMEER"
-theme = "gokarna-hugo"
+theme = "ananke"
 enableEmoji = true
 
 [params]
