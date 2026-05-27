@@ -13,11 +13,11 @@ SUMMEER YouTube Channel: <a herf="https://www.youtube.com/channel/UClK3eBAc-nhPe
 ## Assessment Reports
 ### Virtual
 
-{{< news-list >}}
 
+{{< section-list "responses" >}}
 ## Workshops
-Workshop on Post-Disaster Materials and Environmental Management, May 2-3, 2019, Alexandria, Virginia, USA
-Understanding Data Needs for Sustainable Post-Disaster Material Management, January 13-14, 2022, Tallahassee, Florida, USA
+{{< section-list "workshops" >}}
+
 
 # Publications
 

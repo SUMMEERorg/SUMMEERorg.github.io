@@ -1,0 +1,18 @@
+<div class="section-list">
+
+  {{ $section := .Get 0 }}
+  {{ $count := .Get 1 | default 5 }}
+
+  <ul>
+
+  {{ range first $count (where site.RegularPages "Section" $section) }}
+
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+
+  {{ end }}
+
+  </ul>
+
+</div>

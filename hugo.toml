@@ -54,10 +54,15 @@ gtag('config', 'G-1WZSE8DHZ9');
     name = "News"
     url = "/news/"
     weight = 3
- 
+
+  [[menu.main]]
+    name = "Workshops"
+    url = "/Workshops/"
+    weight = 4  
+
   [[menu.main]]
     name = "Events & Training"
-    url = "/Webinars/"
+    url = "/Events/"
     weight = 4  
 
   [[menu.main]]
