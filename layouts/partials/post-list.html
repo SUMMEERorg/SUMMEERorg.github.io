@@ -1,0 +1,5 @@
+<div class="container list-posts">
+  {{ range where site.RegularPages "Section" "posts" }}
+    {{ partial "list-posts.html" . }}
+  {{ end }}
+</div>
