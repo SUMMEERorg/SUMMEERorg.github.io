@@ -44,9 +44,6 @@
     <loc>http://localhost:1313/responses/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/responses/surfside_building_collapse_072021-copy/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/responses/surfside_building_collapse_072021/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -66,8 +63,6 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/membership/</loc>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
   </url><url>
