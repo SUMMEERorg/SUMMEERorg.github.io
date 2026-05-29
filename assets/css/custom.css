@@ -1,3 +1,17 @@
+.header {
+    --header-bg-light: #782F40;
+    --header-bg-dark: #782F40;
+    background-color: var(--header-bg-light);
+    color: white;
+    fill: white;
+}
+
+.nav-hamburger-list {
+    --header-menu-bg-light: #782F40;
+    --header-menu-bg-dark: #782F40;
+    background: var(--header-menu-bg-light);
+}
+
 .institute-card {
     display: flex;
     gap: 24px;

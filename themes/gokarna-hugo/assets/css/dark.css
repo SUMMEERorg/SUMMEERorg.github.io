@@ -11,12 +11,12 @@ html {
   fill: var(--dark-text-color);
 }
 
-.header {
-  background-color: rgba(var(--dark-primary-color), 0.95);
+.header.header {
+  background-color: #782F40;
 }
 
-.nav-hamburger-list {
-  background: rgba(var(--dark-primary-color), 1);
+.nav-hamburger-list.nav-hamburger-list {
+  background: var(--header-menu-bg-dark);
 }
 
 .nav-links .nav-icons-divider {
@@ -84,7 +84,7 @@ pre {
 }
 
 .header-shadow {
-  box-shadow: rgb(33, 38, 45) 0px -1px 0px 0px inset;
+  box-shadow: rgb(45, 33, 33) 0px -1px 0px 0px inset;
 }
 
 .arrow-logo {

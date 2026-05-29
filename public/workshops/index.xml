@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on SUMMEER</title>
-    <link>http://localhost:1313/workshops/</link>
+    <link>https://summeerorg.github.io/workshops/</link>
     <description>Recent content in Workshops on SUMMEER</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://summeerorg.github.io/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SUMMEER Workshop – Understanding Data Needs for Sustainable Post-Disaster Material Management</title>
-      <link>http://localhost:1313/workshops/01132022/</link>
+      <link>https://summeerorg.github.io/workshops/01132022/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/01132022/</guid>
+      <guid>https://summeerorg.github.io/workshops/01132022/</guid>
       <description>&lt;h1 id=&#34;understanding-data-needs-for-sustainable-post-disaster-material-management&#34;&gt;Understanding Data Needs for Sustainable Post-Disaster Material Management&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;January 13-14, 2022&lt;/li&gt;&#xA;&lt;li&gt;Tallahassee, Florida, USA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;SUMMEER organized its first interdisciplinary workshop, bringing together academic researchers and practitioners from both public and private sectors with the aim of identifying and prioritizing the data needs for sustainable post-disaster material management. Organized by SUMMEER’s cross institutional leadership, the two-day workshop took place in Tallahassee Florida, on the 13th and 14th of January 2022. The workshop was delivered in a hybrid mode, so participants could join either in-person or remotely, to facilitate attendance amid COVID-19 concerns. Overall, the workshop introduced SUMMEER to the interdisciplinary sustainable material research community and enabled the identification and prioritization of the post-disaster data needs to facilitate the sustainable management of disaster debris and wastes. This project encompasses a workshop report summarizing the findings from SUMMEER&amp;rsquo;s first workshop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshop on Post-Disaster Materials and Environmental Management</title>
-      <link>http://localhost:1313/workshops/01032019/</link>
+      <link>https://summeerorg.github.io/workshops/01032019/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/workshops/01032019/</guid>
+      <guid>https://summeerorg.github.io/workshops/01032019/</guid>
       <description>&lt;h1 id=&#34;workshop-on-post-disaster-materials-and-environmental-management&#34;&gt;Workshop on Post-Disaster Materials and Environmental Management&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;May 2-3 2019&lt;/li&gt;&#xA;&lt;li&gt;Alexandria, Virginia, USA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The workshop had a total of 36 participants that consisted of a diverse group of individuals specifically selected by the PIs (Table 1). The essential attributes of the participants were established as demonstrated expertise and/or interest in workshop topics through theoretical, experimental, or modeling research investigations, publications, oversight of management activities, development of new interventions, leadership in interdisciplinary studies, and specifically direct and central involvement in post-disaster recovery and waste and debris management activities during recent disaster events.&lt;/p&gt;</description>
     </item>
   </channel>
