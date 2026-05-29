@@ -12,6 +12,17 @@
     background: var(--header-menu-bg-light);
 }
 
+.home-cover {
+    margin: 0 calc(50% - 50vw) 48px;
+}
+
+.home-cover img {
+    display: block;
+    width: 100%;
+    height: min(520px, 55vw);
+    object-fit: cover;
+}
+
 .institute-card {
     display: flex;
     gap: 24px;

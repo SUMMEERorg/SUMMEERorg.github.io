@@ -1,7 +1,10 @@
 ---
 title: "Home"
 hideTitle: true
-featured_image: "/static/images/cover.jpg"
+hideAvatar: true
+hideDescription: true
+hideSocialIcons: true
+featured_image: "/images/cover.jpg"
 ---
 
 
@@ -17,7 +20,6 @@ featured_image: "/static/images/cover.jpg"
     <p>Disaster events are becoming more frequent and more severe and these events often generate significant amounts of waste.</p>
     <p>The SUstainable Material Management Extreme Events Reconnaissance (SUMMEER) research organization aims to facilitate data collection, develop reconnaissance guidance, train stakeholders, share resources, and support innovative research.</p>
     <p>Through its activities, the ultimate aim of SUMMEER is to enable and advance sustainable management of post-disaster materials.</p>
-    <p>Learn more about SUMMEER <a href="/about">here</a>.
   </div>
 
   <div class="responsive-image">

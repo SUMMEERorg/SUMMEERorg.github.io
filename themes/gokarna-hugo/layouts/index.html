@@ -1,15 +1,17 @@
 {{ define "main" }}
 <section class="home-about">
+    {{ if not .Params.hideAvatar }}
 	<div class="avatar">
         {{ if isset .Site.Params "avatarurl" }}
         <img class={{ .Site.Params.AvatarSize | default "size-m" }} src='{{ .Scratch.Get "avatarImgSrc" }}' alt="{{ .Site.Params.AvatarAltText|default "avatar" }}">
         {{ end }}
 	</div>
+    {{ end }}
 
     {{ if not .Params.hideTitle }}
     <h1>{{ .Site.Title }}</h1>
     {{ end }}
-    {{ if isset .Site.Params "description" }}
+    {{ if and (isset .Site.Params "description") (not .Params.hideDescription) }}
         <h2>{{ .Site.Params.Description }}</h2>
     {{ end }}
 
@@ -17,7 +19,13 @@
 
 <div class="flex-break"></div>
 
-{{ if isset .Site.Params "socialicons" }}
+{{ with .Params.featured_image }}
+<div class="home-cover">
+    <img src="{{ . | relURL }}" alt="">
+</div>
+{{ end }}
+
+{{ if and (isset .Site.Params "socialicons") (not .Params.hideSocialIcons) }}
 <div class="gk-social-icons">
     <ul class="gk-social-icons-list">
         {{ range .Site.Params.SocialIcons }}
