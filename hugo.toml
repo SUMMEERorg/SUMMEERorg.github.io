@@ -1,4 +1,4 @@
-baseURL = "https://summeerorg.github.io/"
+baseURL = "https://summeer-network.github.io/"
 locale = "en-US"
 title = "SUMMEER"
 theme = "gokarna-hugo"
