@@ -1,4 +1,4 @@
-baseURL = "https://summeerorg.github.io/"
+baseURL = "https://summeer-network.github.io/"
 locale = "en-US"
 title = "SUMMEER"
 theme = "gokarna-hugo"
@@ -59,7 +59,7 @@ gtag('config', 'G-1WZSE8DHZ9');
     weight = 3  
 
   [[menu.main]]
-    name = "Events"
+    name = "Events & Training"
     url = "/Events/"
     weight = 4  
 
@@ -79,16 +79,11 @@ gtag('config', 'G-1WZSE8DHZ9');
     weight = 7
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 8
-
-  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 9
+    weight = 8
 
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 9
