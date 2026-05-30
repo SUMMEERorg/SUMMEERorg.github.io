@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on SUMMEER</title>
-    <link>https://summeerorg.github.io/events/</link>
+    <link>http://localhost:1313/events/</link>
     <description>Recent content in Events on SUMMEER</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://summeerorg.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collecting Disaster Debris Data with Social Media and Crowdsourcing</title>
-      <link>https://summeerorg.github.io/events/nov302022/</link>
+      <link>http://localhost:1313/events/nov302022/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/nov302022/</guid>
+      <guid>http://localhost:1313/events/nov302022/</guid>
       <description>&lt;h1 id=&#34;collecting-disaster-debris-data-with-social-media-and-crowdsourcing&#34;&gt;Collecting Disaster Debris Data with Social Media and Crowdsourcing&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;November 30, 2022&lt;/li&gt;&#xA;&lt;li&gt;Training Webinar&lt;/li&gt;&#xA;&lt;li&gt;Speaker: Haiyan Hao&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a training webinar on the collection and processing of disaster debris data with social media and crowdsourcing.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Gcos7jnkuDs?si=0BtJwUiWbScCW_Rq&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Analyzing Debris Clearance Operations Using Discrete Event Simulation</title>
-      <link>https://summeerorg.github.io/events/nov112022/</link>
+      <link>http://localhost:1313/events/nov112022/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/nov112022/</guid>
+      <guid>http://localhost:1313/events/nov112022/</guid>
       <description>&lt;h1 id=&#34;analyzing-debris-clearance-operations-using-discrete-event-simulation&#34;&gt;Analyzing Debris Clearance Operations Using Discrete Event Simulation&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;November 11, 2022&lt;/li&gt;&#xA;&lt;li&gt;Training Webinar&lt;/li&gt;&#xA;&lt;li&gt;Speaker: Joseph Louis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a training webinar on the collection and processing of disaster debris data with social media and crowdsourcing.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/LFGlEPwgx64?si=V2XA-oEMONC8YMos&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Disaster Reconnaissance for Sustainable Post-Disaster Materials Management</title>
-      <link>https://summeerorg.github.io/events/09152022/</link>
+      <link>http://localhost:1313/events/09152022/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/09152022/</guid>
+      <guid>http://localhost:1313/events/09152022/</guid>
       <description>&lt;h1 id=&#34;disaster-reconnaissance-for-sustainable-post-disaster-materials-management&#34;&gt;Disaster Reconnaissance for Sustainable Post-Disaster Materials Management&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;September 15-16, 2022&lt;/li&gt;&#xA;&lt;li&gt;SUMMEER Second Workshop Recording&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;SUMMEER organized its second interdisciplinary workshop, bringing together a diverse group of participants ranging from engineering to social sciences and arts from both academic and industry communities. The two-day in-person workshop took place in San Luis Obispo, California, on the 15th and 16th of September 2022. The workshop included general presentations and targeted breakout sessions that aimed to (i) identify tools and techniques for reconnaissance activities, (ii) identify challenges in field reconnaissance, and (iii) identify and develop preliminary reconnaissance guidelines and standards.&lt;/p&gt;</description>
     </item>
     <item>
       <title>EPA’s Decision Support Tools for Disaster Debris Management – Part Two</title>
-      <link>https://summeerorg.github.io/events/07132022/</link>
+      <link>http://localhost:1313/events/07132022/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/07132022/</guid>
+      <guid>http://localhost:1313/events/07132022/</guid>
       <description>&lt;h1 id=&#34;epas-decision-support-tools-for-disaster-debris-management--part-two&#34;&gt;EPA’s Decision Support Tools for Disaster Debris Management – Part Two&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;July 13, 2022&lt;/li&gt;&#xA;&lt;li&gt;Joint Webinar with U.S. Environmental Protection Agency (EPA)&lt;/li&gt;&#xA;&lt;li&gt;Speakers: Susan Thorneloe and Keith Weitz&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a training webinar on the use of EPA’s Municipal Solid Waste Decision Support Tool.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/E_qyHZP8VUM?si=N7gqInKuxLk5HWhQ&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>EPA’s Decision Support Tools for Disaster Debris Management – Part one</title>
-      <link>https://summeerorg.github.io/events/07082022/</link>
+      <link>http://localhost:1313/events/07082022/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/07082022/</guid>
+      <guid>http://localhost:1313/events/07082022/</guid>
       <description>&lt;h1 id=&#34;epas-decision-support-tools-for-disaster-debris-management--part-one&#34;&gt;EPA’s Decision Support Tools for Disaster Debris Management – Part one&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;July 8, 2022&lt;/li&gt;&#xA;&lt;li&gt;Joint Webinar with U.S. Environmental Protection Agency (EPA)&lt;/li&gt;&#xA;&lt;li&gt;Speakers: Paul Lemieux and Timothy Boe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This is a training webinar on the use of EPA’s Incident Waste Decision Support Tool (I-WASTE), Waste Storage and Staging Tool, and Waste Logistics Tool.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/FcPfLoDri3c?si=lSipXkP6ORLJftNq&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Understanding Data Needs for Sustainable Post-Disaster Material Management</title>
-      <link>https://summeerorg.github.io/events/01132022/</link>
+      <link>http://localhost:1313/events/01132022/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://summeerorg.github.io/events/01132022/</guid>
+      <guid>http://localhost:1313/events/01132022/</guid>
       <description>&lt;h1 id=&#34;summeer-first-workshop-understanding-data-needs-for-sustainable-post-disaster-material-management&#34;&gt;SUMMEER First Workshop: Understanding Data Needs for Sustainable Post-Disaster Material Management&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;January 13-14, 2022&lt;/li&gt;&#xA;&lt;li&gt;SUMMEER First Workshop&lt;/li&gt;&#xA;&lt;li&gt;Speakers: Paul Lemieux and Timothy Boe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;SUMMEER organized its first interdisciplinary workshop, bringing together academic researchers and practitioners from both public and private sectors with the aim of identifying and prioritizing the data needs for sustainable post-disaster material management. Organized by SUMMEER’s cross institutional leadership, the two-day workshop took place in Tallahassee Florida, on the 13th and 14th of January 2022. The workshop was delivered in a hybrid mode, so participants could join either in-person or remotely, to facilitate attendance amid COVID-19 concerns. Overall, the workshop introduced SUMMEER to the interdisciplinary sustainable material research community and enabled the identification and prioritization of the post-disaster data needs to facilitate the sustainable management of disaster debris and wastes.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -210,6 +210,14 @@
     border-radius: 12px;
 }
 
+.team-member .team-photo {
+    flex: 0 0 calc(25% - 20px);
+}
+
+.team-member .team-details {
+    flex: 0 0 calc(75% - 20px);
+}
+
 @media (max-width: 768px) {
 
     .responsive-row {
@@ -222,6 +230,12 @@
 
     .responsive-image {
         order: 2;
+    }
+
+    .team-member .team-photo,
+    .team-member .team-details {
+        flex-basis: auto;
+        width: 100%;
     }
 }
 

@@ -3,7 +3,7 @@ title: "Home"
 hideTitle: true
 hideAvatar: true
 hideDescription: true
-hideSocialIcons: true
+hideSocialIcons: false
 featured_image: "/images/cover.jpg"
 ---
 
